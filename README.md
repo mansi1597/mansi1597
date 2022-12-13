@@ -4,7 +4,7 @@
 
 ### 👋 Hi, I'm Mansi Agrawal. 
 
-- 🔭 I’m currently building supercomputers at Microsoft and developing data pipelines capabale of handling millions of metrics per minute.
+- 🔭 I’m currently building supercomputers at Microsoft and developing data pipelines capable of handling millions of metrics per minute.
 - 👯 I’m looking to collaborate on machine learning, data science python based projects and mentoring.
 - 💬 Ask me about problem solving, system design, and career.
 - 😄 Pronouns: She/her
